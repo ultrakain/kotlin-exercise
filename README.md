@@ -1,2 +1,3 @@
 # kotlin-exercise
-Kotlin Excercise 
+Kotlin Excercise with Coding Trainig Book
+
